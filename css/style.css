@@ -1,0 +1,90 @@
+bidy{
+    margin: 0, auto;
+    font-family: 'Poppins', sans-serif;
+}
+
+/*Default Color & buttons*/
+.pink-color-text{
+    color: #ff136f;
+}
+.button-pink{
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 20px;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
+.main-box-shadow{
+    border: none;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px lightgray;
+}
+/*Navigation bar css*/
+.serch-nav{
+    padding-right: 250px;
+    border-radius: 20px;
+}
+
+/*slider section css*/
+.slider-home{
+    background-color: #feeae9;
+    margin-top: 90px;
+    margin-bottom: 90px;
+    border-radius: 5px;
+}
+.slider-content{
+    padding: 30px 30px;
+}
+
+/*Category Section css*/
+.category-section{
+    margin-bottom: 90px;
+}
+.category-section img{
+    width: 90px;
+}
+.cat-bag, .cat-shoes, .cat-watch{
+    color: white;
+    padding: 20px 0px;
+    border-radius: 5px;
+}
+.cat-watch{
+    background-color: #FFA500;
+}
+.cat-bag{
+    background-color: #DA70D6;
+}
+.cat-shoes{
+    background-color: #0000FF;
+}
+
+/*Shoes Section css*/
+.shoes-section{
+    margin-bottom: 90px;
+}
+
+/*Backpack Section css*/
+.Backpack{
+    margin-bottom: 90px;
+}
+.Backpack .card-footer{
+    background-color: white;
+    border: none;
+}
+
+/*Subscribe Section css*/
+.subscribe-section{
+    background-color: #feeae9;
+    padding: 50px 0px;
+    margin-bottom: 100px;
+    border-radius: 5px;
+}
+.subscribe-section p{
+    color: gray;
+}
+
+/*Footer Section css*/
+.footer-section{
+    text-align: center;
+    padding: 3px 0px;
+}
